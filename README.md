@@ -9,10 +9,11 @@ This test is the 5th project of the Google Developer Scholarship Front End Devel
 * [Contributing](#contributing)
 
 
-https://kovacsl99.github.io/feed-reader-testing/
 
 
-
+## How to run this test
+You can run this test the following link: https://kovacsl99.github.io/feed-reader-testing/ 
+or you can download this project and open the index.html in your browser.
 
 ## Used technologies
 - HTML5
