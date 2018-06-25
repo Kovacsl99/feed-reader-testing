@@ -93,7 +93,7 @@ $(function() {
         });
 
         it('should be at least 1 entry', function(done) {
-            const entry = document.querySelectorAll('.entry');
+            const entry = $('.feed .entry');
             expect(entry.length).toBeGreaterThan(0);
             done();
         });
